@@ -1,0 +1,14 @@
+C:\Users\domi2\source\repos\primer_parcial\primer_parcial\bin\Debug\primer_parcial.exe.config
+C:\Users\domi2\source\repos\primer_parcial\primer_parcial\bin\Debug\primer_parcial.exe
+C:\Users\domi2\source\repos\primer_parcial\primer_parcial\bin\Debug\primer_parcial.pdb
+C:\Users\domi2\source\repos\primer_parcial\primer_parcial\obj\Debug\primer_parcial.csproj.AssemblyReference.cache
+C:\Users\domi2\source\repos\primer_parcial\primer_parcial\obj\Debug\primer_parcial.csproj.CoreCompileInputs.cache
+C:\Users\domi2\source\repos\primer_parcial\primer_parcial\obj\Debug\primer_parcial.exe
+C:\Users\domi2\source\repos\primer_parcial\primer_parcial\obj\Debug\primer_parcial.pdb
+C:\Users\domi2\Documents\GitHub\parcial01\primer_parcial\primer_parcial\bin\Debug\primer_parcial.exe.config
+C:\Users\domi2\Documents\GitHub\parcial01\primer_parcial\primer_parcial\bin\Debug\primer_parcial.exe
+C:\Users\domi2\Documents\GitHub\parcial01\primer_parcial\primer_parcial\bin\Debug\primer_parcial.pdb
+C:\Users\domi2\Documents\GitHub\parcial01\primer_parcial\primer_parcial\obj\Debug\primer_parcial.csproj.AssemblyReference.cache
+C:\Users\domi2\Documents\GitHub\parcial01\primer_parcial\primer_parcial\obj\Debug\primer_parcial.csproj.CoreCompileInputs.cache
+C:\Users\domi2\Documents\GitHub\parcial01\primer_parcial\primer_parcial\obj\Debug\primer_parcial.exe
+C:\Users\domi2\Documents\GitHub\parcial01\primer_parcial\primer_parcial\obj\Debug\primer_parcial.pdb
